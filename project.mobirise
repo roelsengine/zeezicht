@@ -953,7 +953,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "showButtons": true,
             "sticky": true,
@@ -965,13 +965,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cropped-cropped-zz-logo-1-489x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/icon-zeezicht-evenementen-heerlen-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Zeezicht heerlen evenementen verhuur producten en diensten",
               "link": "http://www.zeezichtheerlen.nl",
-              "title": "evenementen verhuur producten en diensten",
-              "linkInNewWindow": false
+              "title": "evenementen verhuur producten en diensten"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
